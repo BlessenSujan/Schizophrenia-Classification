@@ -1,0 +1,1 @@
+this code is produce a 2d cnn-lstm model to classify schizophrenia using rs-fmri. it has used pearson correlation to compute connectivity matrices and these matrices are later added as input for the model and the model has achieved an accuracy of 87.5 %.
